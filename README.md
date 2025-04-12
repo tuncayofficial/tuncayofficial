@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/tuncaystinson" target="blank"><img src="https://img.shields.io/twitter/follow/tuncaystinson?logo=twitter&style=for-the-badge" alt="tuncaystinson" /></a> </p>
 
-- 🔭 I’m currently working on [CodePlanet](https://github.com/codeplanett/codeplanet)
+- 🔭 I’m currently working on [JurnLet](https://github.com/tuncayofficial/jurnlet))
 
-- 🌱 I’m currently learning **ReactJS, Vue.js, ElectronJS, C++ and etc.**
+- 🌱 I’m currently learning **ReactJS, TypeScript, TailwindCSS and etc.**
 
-- 👯 I’m looking to collaborate on [Minecraft Ursina](https://github.com/codeplanett/minecraft-basic)
+- 👯 I’m looking to collaborate on [JurnLet](https://github.com/tuncayofficial/jurnlet)
 
 - 🤝 I’m looking for help with **User Dashboard**
 
