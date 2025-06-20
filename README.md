@@ -29,6 +29,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [From Zero to 🚀: Building a Serverless Task Manager with React, Node.js, and AWS](https://dev.to/tuncayofficial/from-zero-to-building-a-serverless-task-manager-with-react-nodejs-and-aws-3go9)
+- [Best React UI Framework?](https://dev.to/tuncayofficial/best-react-ui-framework-57on)
+- [[MongoDB Submission Post Placeholder Title]](https://dev.to/tuncayofficial/mongodb-submission-post-placeholder-title-2og1)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
