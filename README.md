@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [repositories.](repositories.)
 
-- 📝 I regularly write articles on [https://dev.to/dashboard](https://dev.to/dashboard)
+- 📝 I regularly write articles on [https://dev.to/dashboard](https://dev.to/tuncayofficial)
 
 - 💬 Ask me about **Full-stack basics & pipeline.**
 
